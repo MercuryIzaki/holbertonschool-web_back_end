@@ -1,1 +1,1 @@
-NoSQL - MongoDB project
+NoSQL - MongoDB basics project
