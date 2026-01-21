@@ -1,2 +1,2 @@
-// Creates or uses the database hbtn_01
-use hbtn_01
+// Script that creates or uses the database my_db
+use my_db
