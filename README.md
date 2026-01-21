@@ -1,1 +1,1 @@
-This project introduces NoSQL and MongoDB basics.
+NoSQL - MongoDB project
